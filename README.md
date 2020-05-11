@@ -1,1 +1,1 @@
-# How_does_YOLO_work
+# Simple visualization on how does YOLO model work
